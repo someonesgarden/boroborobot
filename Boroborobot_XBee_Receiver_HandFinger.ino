@@ -4,7 +4,7 @@
 SoftwareSerial xSerial(2,3);
 
 /*
-This example is for Series 2 XBee
+for Series 2 XBee
 Receives a ZB RX packet and sets a PWM value based on packet data.
 Error led is flashed if an unexpected packet is received
 */
